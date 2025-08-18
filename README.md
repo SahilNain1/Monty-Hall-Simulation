@@ -12,4 +12,4 @@ Probability of winning when switching: 0.6694 (Expected: ~0.6667)
 Probability of winning when player stays: 0.3306 (Expected: ~0.3333)
 
 ## References
-- Inspired by *Heard on the Street* and Brainstellar puzzles.
+- Inspired by *Heard on the Street* and QuantGuide puzzles.
